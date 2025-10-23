@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\bin\Debug\net9.0\MiAppConsola.exe
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\bin\Debug\net9.0\MiAppConsola.deps.json
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\bin\Debug\net9.0\MiAppConsola.runtimeconfig.json
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\bin\Debug\net9.0\MiAppConsola.dll
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\bin\Debug\net9.0\MiAppConsola.pdb
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.dll
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\refint\MiAppConsola.dll
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.pdb
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\MiAppConsola.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Ingenieria Software\Testing\MiAppConsola\obj\Debug\net9.0\ref\MiAppConsola.dll
