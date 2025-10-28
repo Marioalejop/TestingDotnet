@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbrKE0XX47U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Estudiante\\Downloads\\Ing Software\\TestingDotnet\\testComp\\testComp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Estudiante\\.nuget\\packages\\enumerableasyncprocessor\\3.8.4\\enumerableasyncprocessor.3.8.4.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.0.1\\microsoft.testing.extensions.trxreport.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\microsoft.testing.platform\\2.0.1\\microsoft.testing.platform.2.0.1.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.0.1\\microsoft.testing.platform.msbuild.2.0.1.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\system.threading.channels\\9.0.0\\system.threading.channels.9.0.0.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\tunit\\0.77.3\\tunit.0.77.3.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\tunit.assertions\\0.77.3\\tunit.assertions.0.77.3.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\tunit.core\\0.77.3\\tunit.core.0.77.3.nupkg.sha512",
+    "C:\\Users\\Estudiante\\.nuget\\packages\\tunit.engine\\0.77.3\\tunit.engine.0.77.3.nupkg.sha512"
+  ],
+  "logs": []
+}
